@@ -19,7 +19,7 @@ Coursework consisted mostly of written problem sets, but there was one final pro
 
 ### DATA 8 (Foundations of Data Science), Summer 2020<br/>
 The introductory data science course, in Python on Jupyter notebook.<br/>
-... Project 1 uses global demographic data from www.gapminder.org to explore statistics and build visualizations.<br/>
+... Project 1 uses global demographic data from gapminder.org to explore statistics and build visualizations.<br/>
 ... Project 2 uses text from movie screenplays to build a KNN classifier to determine if a movie is a thriller or a comedy.<br/>
 
 ### DATA 100 (Principles and Techniques of Data Science), Fall 2020<br/>
