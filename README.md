@@ -1,7 +1,5 @@
 # Projects
-Highlighting specific coursework at UC Berkeley and other projects.
-
-The university frowns on open access to completed coursework, and the complete directory of everything is too much to wade through, so I have curated a smaller sample of work from various courses that should still provide a full picture of the Data Science program at UC Berkeley.
+I have highlighted a sample of work across various courses and other projects that should provide a full picture of the Data Science program at UC Berkeley.
 
 ## INCLUDED COURSEWORK
 
